@@ -1,4 +1,4 @@
-Shader "Owen/HelloShader"
+Shader "Owen/MyFirstShader"
 {
     Properties
     {
